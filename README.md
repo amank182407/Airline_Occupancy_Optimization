@@ -1,5 +1,8 @@
 # Airline Occupancy Optimization
 
+![Thumbnail](https://github.com/amank182407/Cricket_Best_XI_Analysis/blob/10c71e6f7c612078c0d88756d2d8127ee2297e1d/Screenshots/Thumbnail.png)
+
+
 ## Overview
 This project aims to optimize airline seat occupancy using advanced SQL queries and Python algorithms. The purpose is to maximize profitability while maintaining high customer satisfaction.
 
