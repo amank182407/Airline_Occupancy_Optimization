@@ -19,10 +19,10 @@ git clone https://github.com/your-username/airline-occupancy-optimization.git
 cd airline-occupancy-optimization
 pip install -r requirements.txt
 
-##Usage
+## Usage
 # Run the Jupyter notebook
 jupyter notebook optimization_notebook.ipynb
 
-##Acknowledgements
-Thank you to all the contributors who have invested their time into improving this project.
-sql
+
+Feel free to adjust the sections based on your specific project needs. If you need help filling out any part or have any questions, let me know!
+
